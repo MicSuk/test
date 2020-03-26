@@ -3,3 +3,7 @@ git clone https://github.com/MicSuk/test
 git add Filename.txt
 git commit -m "Message" filename.txt
 git push
+--additional Befehle--
+git config --global user.name "NAME"
+git config --global user.email "EMAIL"
+git pull
