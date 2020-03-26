@@ -4,3 +4,4 @@ Max hat den besten Rasierer der Welt!
 Max schnitz zuhause einen neuen rasierer.
 Max und Arthur bff.
 forever together: Max + Arthur
+Beachte der Welt!!!!
