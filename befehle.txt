@@ -7,3 +7,10 @@ git push
 git config --global user.name "NAME"
 git config --global user.email "EMAIL"
 git pull
+--SSH Key Config--
+ssh-keygen -t rsa -C "EMAIL"
+C:\Useres[USERNAME].ssh
+is_rsa.pub
+https://github.com/settings/keys
+ssh -T git@github.com
+--Success when Hi! NAME ...
